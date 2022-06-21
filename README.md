@@ -1,2 +1,2 @@
-# DIO-desafio-de-projeto
-Desafio de projeto Git/GitHub
+# Desafio de projeto para Git/GitHub Bootcamp Impulso
+  Repositório criado para desafio de projeto DIO!
